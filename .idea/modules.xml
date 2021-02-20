@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ajax&amp;Json/Ajax&amp;Json.iml" filepath="$PROJECT_DIR$/Ajax&amp;Json/Ajax&amp;Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cookie&amp;Session/Cookie&amp;Session.iml" filepath="$PROJECT_DIR$/Cookie&amp;Session/Cookie&amp;Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CookieTest/CookieTest.iml" filepath="$PROJECT_DIR$/CookieTest/CookieTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EL&amp;JSTL/EL&amp;JSTL.iml" filepath="$PROJECT_DIR$/EL&amp;JSTL/EL&amp;JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JQuery_base/JQuery_base.iml" filepath="$PROJECT_DIR$/JQuery_base/JQuery_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JQuery_高级/JQuery_高级.iml" filepath="$PROJECT_DIR$/JQuery_高级/JQuery_高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet&amp;request&amp;test/Servlet&amp;request&amp;test.iml" filepath="$PROJECT_DIR$/Servlet&amp;request&amp;test/Servlet&amp;request&amp;test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Setvlet&amp;http&amp;response/Setvlet&amp;http&amp;response.iml" filepath="$PROJECT_DIR$/Setvlet&amp;http&amp;response/Setvlet&amp;http&amp;response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter&amp;listener/filter&amp;listener.iml" filepath="$PROJECT_DIR$/filter&amp;listener/filter&amp;listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" filepath="$PROJECT_DIR$/servlet&amp;http&amp;request/servlet&amp;http&amp;request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat/tomcat.iml" filepath="$PROJECT_DIR$/tomcat/tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace4JSP.iml" filepath="$PROJECT_DIR$/.idea/workspace4JSP.iml" />
+    </modules>
+  </component>
+</project>

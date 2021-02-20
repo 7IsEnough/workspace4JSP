@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Ajax&amp;Json:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2acfe7e2-97c8-4292-a6c4-4f114e000b14" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1awHyz17Sk0HoyxARUtgdCOwC3a" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace4JSP2\servlet\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.clearlove.web.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace4JSP\redis\web\WEB-INF\lib" />
+      <recent name="F:\workspace4JSP\Ajax&amp;Json\web\WEB-INF\lib" />
+      <recent name="F:\workspace4JSP\Ajax&amp;Json\web" />
+      <recent name="F:\workspace4JSP\JQuery_高级\web\img" />
+      <recent name="F:\workspace4JSP\JQuery_高级\web\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JedisTest.test7">
+    <configuration name="JedisTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clearlove.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clearlove.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clearlove.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clearlove.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clearlove.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clearlove.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clearlove.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clearlove.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clearlove.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clearlove.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clearlove.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clearlove.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clearlove.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clearlove.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clearlove.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="redis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/redis_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="redis:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JedisTest.test4" />
+      <item itemvalue="JUnit.JedisTest.test5" />
+      <item itemvalue="JUnit.JedisTest.test6" />
+      <item itemvalue="JUnit.JedisTest.test7" />
+      <item itemvalue="JUnit.JedisTest.test8" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.53" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JedisTest.test7" />
+        <item itemvalue="JUnit.JedisTest.test8" />
+        <item itemvalue="JUnit.JedisTest.test6" />
+        <item itemvalue="JUnit.JedisTest.test5" />
+        <item itemvalue="JUnit.JedisTest.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2acfe7e2-97c8-4292-a6c4-4f114e000b14" name="Default Changelist" comment="" />
+      <created>1587639995005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587639995005</updated>
+      <workItem from="1587639996301" duration="1608000" />
+      <workItem from="1587641639252" duration="41000" />
+      <workItem from="1587709264488" duration="5292000" />
+      <workItem from="1587782863353" duration="4130000" />
+      <workItem from="1590723622713" duration="1329000" />
+      <workItem from="1590732491703" duration="1199000" />
+      <workItem from="1596867015360" duration="343000" />
+      <workItem from="1597761871610" duration="290000" />
+      <workItem from="1598669856040" duration="60000" />
+      <workItem from="1599575084148" duration="721000" />
+      <workItem from="1599653746757" duration="3433000" />
+      <workItem from="1599830544175" duration="88000" />
+      <workItem from="1599910056344" duration="518000" />
+      <workItem from="1599961932895" duration="600000" />
+      <workItem from="1600003039001" duration="1898000" />
+      <workItem from="1600093618482" duration="841000" />
+      <workItem from="1600178960047" duration="2625000" />
+      <workItem from="1600260747428" duration="3995000" />
+      <workItem from="1600571350700" duration="3108000" />
+      <workItem from="1600593831075" duration="3241000" />
+      <workItem from="1600601223333" duration="600000" />
+      <workItem from="1600691705673" duration="803000" />
+      <workItem from="1600699462747" duration="556000" />
+      <workItem from="1601043206539" duration="2225000" />
+      <workItem from="1601050049379" duration="5120000" />
+      <workItem from="1601107551841" duration="10263000" />
+      <workItem from="1601209304930" duration="3596000" />
+      <workItem from="1601297601169" duration="5299000" />
+      <workItem from="1601305549494" duration="2967000" />
+      <workItem from="1601389948980" duration="11210000" />
+      <workItem from="1602250741853" duration="7408000" />
+      <workItem from="1602415126567" duration="604000" />
+      <workItem from="1602416899384" duration="143000" />
+      <workItem from="1605715092249" duration="1495000" />
+      <workItem from="1605793355091" duration="1126000" />
+      <workItem from="1606615628895" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

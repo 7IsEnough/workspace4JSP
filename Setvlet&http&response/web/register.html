@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+    
+    window.onload = function () {
+        // 1.获取图片对象
+        var img = document.getElementById("checkCode");
+        //2.绑定单机事件
+        img.onclick = function () {
+            //加时间戳
+            var date = new Date().getTime();
+
+            img.src = "/Servlet_http_response/checkCodeServlet?"+date;
+        }
+
+        
+    }
+
+</script>
+<body>
+
+    <img id="checkCode" src="/Servlet_http_response/checkCodeServlet">
+
+    <a id="change" href="javascript:checkCode.onclick()">看不清换一张？</a>
+
+</body>
+</html>
